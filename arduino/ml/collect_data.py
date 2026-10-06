@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-collect_data.py — Collect real glove sensor data
-BLUETOOTH / ARDUINO VERSION
-"""
-
 import serial
 import csv
 import time
